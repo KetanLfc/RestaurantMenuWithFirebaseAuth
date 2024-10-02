@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438103075534",
+    "project_id": "restaurantmenu-cac87",
+    "storage_bucket": "restaurantmenu-cac87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438103075534:android:21ee598350ebcb7d40fe9f",
+        "android_client_info": {
+          "package_name": "com.example.assignment2b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3YPusxRxTDF01qIcPJo111qN8GiJxh0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
